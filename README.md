@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there! 👋
+
+I’m **Kyle Myck**, the VP of Innovation at [Dura Digital](https://www.duradigital.com), a tech services firm dedicated to digital transformation and innovation.
+
+## 🚀 What I’m Working On
+I'm currently focused on growing Dura Digital and delivering amazing solutions to our clients. We’re passionate about creating impactful digital experiences, enhancing productivity, and helping businesses achieve their goals through technology.
+
+Feel free to check out our [website](https://www.duradigital.com) to learn more about our work and offerings!
+
 
 <!--
 **DuraKyle/DuraKyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
